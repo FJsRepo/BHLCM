@@ -28,7 +28,7 @@ for col = 1:cols
     total_frames = total_frames + numTemp;
 end
 
-% New version MATLAB () does not require pre-allocation of the arrays
+% New version MATLAB does not require pre-allocation of the arrays
 % deviation = zeros(total_frames,1);
 
 for i = 1:cols
